@@ -34,15 +34,6 @@ const styles = StyleSheet.create({
 		flex: 1,
 		backgroundColor: Colors.light.background,
 	},
-	creditCard: {
-		width: "90%",
-		height: 200,
-		borderRadius: 10,
-		marginTop: 20,
-		marginHorizontal: 20,
-		padding: 10,
-		backgroundColor: "#2A49FB",
-	},
 });
 
 export default HistoryScreen;
